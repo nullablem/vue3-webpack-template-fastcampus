@@ -19,3 +19,13 @@ $ npm i vue-router@4
 ```
 $ npm i bootstrap
 ```
+
+## axios 설치
+```
+$ npm i axios
+```
+
+## vuex 설치
+```
+$ npm i vuex@next
+```
