@@ -1,3 +1,12 @@
 <template>
-  <h1>Movie!</h1>
+  <Sidebar />
 </template>
+
+<script>
+import Sidebar from '~/components/Sidebar'
+export default {
+  components: {
+    Sidebar
+  }
+}
+</script>

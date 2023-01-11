@@ -14,3 +14,8 @@ $ npm i vue@next
 ```
 $ npm i vue-router@4
 ```
+
+## bootstrap 설치
+```
+$ npm i bootstrap
+```
