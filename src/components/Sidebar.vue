@@ -74,7 +74,6 @@
 
 
 <style lang="scss" scoped>
-@import "~/scss/main";
 .collapse {
   &:not(.show) {
     display: none;

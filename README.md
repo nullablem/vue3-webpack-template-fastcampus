@@ -29,3 +29,9 @@ $ npm i axios
 ```
 $ npm i vuex@next
 ```
+
+## lodash 설치
+```
+$ npm i lodash
+```
+
