@@ -35,3 +35,6 @@ $ npm i vuex@next
 $ npm i lodash
 ```
 
+
+
+# (node:21292) Warning: require() of ES modules is not supported.
